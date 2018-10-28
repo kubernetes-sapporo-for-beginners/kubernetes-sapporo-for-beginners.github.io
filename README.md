@@ -37,12 +37,12 @@ connpassの資料として添付しにくい情報のために、本リポジト
 ## ハンズオン
 
 下記リポジトリに蓄積していきます。<br>
-https://github.com/kubernetes-sapporo-for-beginners/hands-on
+[https://github.com/kubernetes-sapporo-for-beginners/hands-on](https://github.com/kubernetes-sapporo-for-beginners/hands-on)
 
 また、ハンズオンで利用するアプリケーションは、下記リポジトリに蓄積していきます。<br>
-https://github.com/kubernetes-sapporo-for-beginners/hands-on-apps
+[https://github.com/kubernetes-sapporo-for-beginners/hands-on-apps](https://github.com/kubernetes-sapporo-for-beginners/hands-on-apps)
 
 これは、Docker  Hubで、Automated Buildされています。<br>
-https://hub.docker.com/r/k8ssa/
+[https://hub.docker.com/r/k8ssa/](https://hub.docker.com/r/k8ssa/)
 
 
