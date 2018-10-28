@@ -30,7 +30,7 @@ connpassの資料として添付しにくい情報のために、本リポジト
 # 資料
 
 - [Connpassのイベント参加者向け行動規範](./event-code-of-conduct.md)
-- [本リポジトリ参加者向け行動規範](./CODE-OF-CONDUCT.md)<br>文字化けする場合は、[https://github.com/kubernetes-sapporo-for-beginners/kubernetes-sapporo-for-beginners.github.io/blob/master/CODE-OF-CONDUCT.md](https://github.com/kubernetes-sapporo-for-beginners/kubernetes-sapporo-for-beginners.github.io/blob/master/CODE-OF-CONDUCT.md)にてご確認お願いします。
+- [本リポジトリ参加者向け行動規範](./CODE-OF-CONDUCT.md)
 
 # 各リポジトリに関して
 
