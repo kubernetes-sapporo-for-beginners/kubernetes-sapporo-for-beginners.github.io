@@ -1,4 +1,4 @@
-# WHat is Kubernetes Sapporo for Beginners
+# What is Kubernetes Sapporo for Beginners
 
 ![image](./logo/kubernates_sapporo_banner.png )
 
@@ -16,6 +16,8 @@ https://sapporo-beginner-kubernetes.connpass.com/
 
 Kubernetesの事をより深く知っている方は、 Kubernetes公式のslack等に参加することをお勧めします。
 
+**オープンな活動を行うユーザーグループです。新しく参加される方をいつでも歓迎します。**
+
 # 本リポジトリの活用に関して
 
 各イベントの資料は、connpassの資料として添付する形で良いです。<br>
@@ -27,10 +29,17 @@ connpassの資料として添付しにくい情報のために、本リポジト
 - ハンズオンのためのアプリケーション、及びマニフェストファイル
 - 全員でアウトプットした何か・・・など。
 
-# 資料
+# 統制
 
 - [Connpassのイベント参加者向け行動規範](./event-code-of-conduct.md)
 - [本リポジトリ参加者向け行動規範](./CODE-OF-CONDUCT.md)
+
+# イベント
+
+現在は、connpassにて、開催をしております。下記ページを確認してください。
+
+[https://sapporo-beginner-kubernetes.connpass.com/event/](https://sapporo-beginner-kubernetes.connpass.com/event/)
+
 
 # 各リポジトリに関して
 
